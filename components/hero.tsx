@@ -11,7 +11,7 @@ export default function Hero() {
           Transform text into videos, images, and speech effortlessly.
         </p>
         <Button size="lg" className="animate-pulse">
-          Get Started Now
+          Get Started
         </Button>
       </div>
     </section>
